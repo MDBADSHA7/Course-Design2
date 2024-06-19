@@ -15,7 +15,7 @@ const Book_PDF = () => {
       <h1 className="lg:text-4xl md:text-3xl text-2xl font-header font-bold text-center mt-10 mb-10 ">Please choose a PDF book for reading</h1>
       {/* Add Card */}
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 pl-5 pr-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 <div>
    {/* Add 1st Card */}
    <div className="card w-96 bg-base-100 shadow-xl">
